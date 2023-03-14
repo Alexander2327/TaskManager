@@ -1,0 +1,1 @@
+# TaskManager [![Build status](https://ci.appveyor.com/api/projects/status/idjnek4q1n36kvbf?svg=true)](https://ci.appveyor.com/project/Alexander2327/taskmanager)
